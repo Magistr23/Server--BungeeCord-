@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684086798517
+  login: 1684086778372
+money: '0'
+last-account-name: gingerbred
+logoutlocation:
+  world: acc678f5-d6d1-4130-b351-037dc36ac365
+  world-name: world
+  x: -141.94440994588774
+  y: 8.0
+  z: -201.84663004624096
+  yaw: -84.36917114257812
+  pitch: 13.118661880493164
